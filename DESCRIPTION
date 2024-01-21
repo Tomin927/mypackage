@@ -19,3 +19,5 @@ BugReports: https://github.com/Tomin927/mypackage/issues
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Imports: 
+    magrittr
